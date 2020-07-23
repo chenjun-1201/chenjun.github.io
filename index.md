@@ -1,9 +1,20 @@
-## Welcome to GitHub Pages
+## 陈军
 
-You can use the [editor on GitHub](https://github.com/chenjun-1201/chenjun.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+求职状态：目前正在找工作
 
+手机：17689231856
+
+chenjun1201@foxmail.com
+22 岁 (1998/01/01）
+
+现居住长沙-芙蓉区
+
+2年工作经验
+
+最近工作
+职位
+Java开发工程师
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
