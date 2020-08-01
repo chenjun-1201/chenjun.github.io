@@ -1,33 +1,17 @@
 ## 陈军
 
 
-求职状态：目前正在找工作
-
-手机：17689231856
-
-chenjun1201@foxmail.com
-22 岁 (1998/01/01）
-
-现居住长沙-芙蓉区
-
-
-<img src="./IMG_0919(20200801-112558)_meitu_2.jpg" alt="IMG_0919(20200801-112558)_meitu_2" style="zoom:15%;" /> 
-
-
-
 # 联系方式
-
-
-<table  width="100%" cellspacing="0" cellpadding="5">
+<table  width="100%" cellspacing="0" cellpadding="5" frame=void >
     <tr>
-        <td  rowspan="3"><img src="./IMG_0919(20200801-112558)_meitu_2.jpg" alt="IMG_0919(20200801-112558)_meitu_2" style="zoom:15%;" /></td>
+        <td  rowspan="4"><img src="./IMG_0919(20200801-112558)_meitu_2.jpg" alt="IMG_0919(20200801-112558)_meitu_2" style="zoom:15%;" /></td>
         <td>手机：17689231856</td>
 
 
     </tr>
     <tr>
        
-        <td>Email：2289871369@foxmail.com （虽然我觉得QQ邮箱无所谓，不过有些技术人员比较反感，建议用G，非要用的话，不要用数字邮箱名）</td>
+        <td>Email：2289871369@foxmail.com </td>
     
     </tr>
     <tr>
@@ -38,28 +22,6 @@ chenjun1201@foxmail.com
 
 </table>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - 手机：186.... （如果是外地手机，可注明。如经常关机，要写上最优联系时间）
 - Email：goodman@gmail.com （虽然我觉得QQ邮箱无所谓，不过有些技术人员比较反感，建议用G，非要用的话，不要用数字邮箱名）
 - QQ/微信号：qing_geee（提供一个通过网络可以联系到你的方式）
@@ -67,8 +29,9 @@ chenjun1201@foxmail.com
 # 个人信息
 
  - 沉默王二/男/1989 
- - 专科/家里蹲大学
- - 工作年限：2年
+ - 本科/长沙学院
+ - 工作年限：1年
+ - 工作状态: 离职
  - 技术博客：https://blog.csdn.net/weixin_45558236
  - Github：http://chenjun-1201.github.io( 有原创repo的Github帐号会极大的提升你的个人品牌  )
  
