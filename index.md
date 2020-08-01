@@ -1,6 +1,3 @@
-
-<h1> 陈军的简历
-
 <div style="float:right">
     <img src="./IMG_0919(20200801-112558)_meitu_2.jpg" width="200">
 </div>
