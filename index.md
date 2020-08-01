@@ -18,7 +18,7 @@ chenjun1201@foxmail.com
 
 <table  width="100%" cellspacing="0" cellpadding="5">
     <tr>
-        <td  rowspan="3"><img src="/Users/mac/Downloads/IMG_0919(20200801-112558)_meitu_2.jpg" alt="IMG_0919(20200801-112558)_meitu_2" style="zoom:15%;" /></td>
+        <td  rowspan="3"><img src="./IMG_0919(20200801-112558)_meitu_2.jpg" alt="IMG_0919(20200801-112558)_meitu_2" style="zoom:15%;" /></td>
         <td>手机：17689231856</td>
 
 
