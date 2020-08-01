@@ -10,121 +10,10 @@ chenjun1201@foxmail.com
 
 现居住长沙-芙蓉区
 
-2年工作经验
-
-最近工作
-职位
-Java开发工程师
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
 # 联系方式
-
-
-
-
-
-
-
-<table>
-	<tr>
-	    <th>属性</th>
-	    <th>属性值</th>
-
-
-	</tr >
-	<tr >
-	    <td rowspan="3">type</td>
-	    <td>text</td>
-	   
-	</tr>
-	<tr>
-	    <td>password</td>
-	    <td>密码输入框</td>
-	</tr>
-	<tr>
-	    <td>radio</td>
-	    <td>单选按钮</td>
-	</tr>
-	<tr>
-	    <td>CheckBox</td>
-	    <td>复选按钮</td>
-	</tr>
-	<tr><td>button</td>
-	    <td>普通按钮</td>
-	</tr>
-	<tr>
-	    <td>submit</td>
-	    <td>提交按钮</td>
-	</tr>
-	<tr>
-	    <td>reset</td>
-	    <td>重置按钮</td>
-	</tr>
-	<tr>
-	    <td>image</td>
-	    <td>图像形式的提交按钮</td>
-	</tr>
-	<tr>
-	    <td >file</td>
-	    <td>文件域</td>
-	</tr>
-	<tr>
-	    <td >name</td>
-	    <td>用户自定义</td>
-	    <td>控件名称</td>
-	</tr>
-	<tr>
-	    <td >value</td>
-	    <td >用户自定义</td>
-	    <td >默认文本值</td>
-	</tr>
-	<tr>
-	    <td >size</td>
-	    <td >正整数</td>
-	    <td >控件在页面中的显示宽度</td>
-	</tr>
-	<tr>
-	    <td >checked</td>
-	    <td >checked</td>
-	    <td >定义选择控件默认被选中项</td>
-	</tr>
-	<tr>
-	    <td >maxlength</td>
-	    <td >正整数</td>
-	    <td >控件允许输入的最多字符</td>
-	</tr>
-
-</table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <table  width="100%" cellspacing="0" cellpadding="5">
@@ -165,13 +54,10 @@ Java开发工程师
 
 
 
-<img src="/Users/mac/Downloads/IMG_0919(20200801-112558)_meitu_2.jpg" alt="IMG_0919(20200801-112558)_meitu_2" style="zoom:15%;"                                    /> 
+<img src="./IMG_0919(20200801-112558)_meitu_2.jpg" alt="IMG_0919(20200801-112558)_meitu_2" style="zoom:15%;"                                    /> 
 
 
 
-<table>
-  
-</table>
 
 - 手机：186.... （如果是外地手机，可注明。如经常关机，要写上最优联系时间）
 - Email：goodman@gmail.com （虽然我觉得QQ邮箱无所谓，不过有些技术人员比较反感，建议用G，非要用的话，不要用数字邮箱名）
@@ -181,13 +67,14 @@ Java开发工程师
 
  - 沉默王二/男/1989 
  - 专科/家里蹲大学
- - 工作年限：10年
- - 技术博客：http://www.itwanger.com 
- - Github：http://github.com/qinggee ( 有原创repo的Github帐号会极大的提升你的个人品牌  )
-
- - 期望职位：Java 高级程序员，系统架构师
- - 期望薪资：税前月薪30k~50k，特别喜欢的公司可例外
- - 期望城市：洛阳
+ - 工作年限：2年
+ - 技术博客：https://blog.csdn.net/weixin_45558236
+ - Github：http://chenjun-1201.github.io( 有原创repo的Github帐号会极大的提升你的个人品牌  )
+ 
+ - 期望职位：Java 中级程序员
+ - 期望薪资：税前月薪8k，特别喜欢的公司可例外
+ - 期望城市：长沙
+ - 目前居住: 长沙 芙蓉区
 
 
 # 工作经历
