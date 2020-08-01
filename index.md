@@ -1,8 +1,8 @@
-# 联系方式
+#jast for fun
 <div style="float:right">
     <img src="./IMG_0919(20200801-112558)_meitu_2.jpg" width="200">
 </div>
-
+# 陈军的简历
 - 手机：17689231856
 - Email：2289871369@foxmail.com
 - QQ/微信号：17689231856
