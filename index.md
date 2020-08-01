@@ -11,6 +11,8 @@ chenjun1201@foxmail.com
 现居住长沙-芙蓉区
 
 
+<img src="./IMG_0919(20200801-112558)_meitu_2.jpg" alt="IMG_0919(20200801-112558)_meitu_2" style="zoom:15%;" /> 
+
 
 
 # 联系方式
@@ -54,7 +56,6 @@ chenjun1201@foxmail.com
 
 
 
-<img src="./IMG_0919(20200801-112558)_meitu_2.jpg" alt="IMG_0919(20200801-112558)_meitu_2" style="zoom:15%;"                                    /> 
 
 
 
@@ -163,3 +164,24 @@ chenjun1201@foxmail.com
 
 感谢您花时间阅读我的简历，期待能有机会和您共事。
       
+      
+      <style type="text/css">
+	*{margin: 0;padding:0;}
+	div{
+		width:150px;
+		height: 100px;
+		position: relative;
+		border:1px solid #000;
+	}
+	img {
+  		width: 50px;
+  		height: 50px;
+  		position: absolute;
+  		top: 50%;
+		left: 50%;
+  		margin-top: -25px; /* 高度的一半 */
+  		margin-left: -25px; /* 宽度的一半 */
+	}
+</style>
+
+
